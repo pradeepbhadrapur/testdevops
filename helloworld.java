@@ -3,6 +3,7 @@ public class HelloWorld {
              public static void main(String args[]) {
 	     // Prints "Hello World" to terminal
              System.out.println("Hello, World"); 
-             // Change #2                        
+             // Change #2
+             // change #3                        
              } 
             } 
